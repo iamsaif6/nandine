@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/nandine/blob/main/nandine.gif" width="800px" />
+<img src="https://github.com/iamsaif6/nandine/blob/main/nandine%20SS.gif" width="800px" />
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/nandine/ "Nandine")
 
